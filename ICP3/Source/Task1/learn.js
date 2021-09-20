@@ -1,0 +1,1 @@
+alert(promt("Enter you name").toUpperCase(slice(0,1));
